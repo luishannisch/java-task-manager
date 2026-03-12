@@ -9,13 +9,22 @@ A simple console task manager built in Java.
 - Mark tasks as completed
 - Remove tasks
 
-## Concepts practiced
+## Technologies
 
-- Object-Oriented Programming
+- Java
 - ArrayList
-- Input validation
-- Basic sorting
+- Object-Oriented Programming
 
-## Author
+## How to run
 
-Luis Hannisch
+Clone the repository:
+
+git clone https://github.com/luishannisch/java-task-manager.git
+
+Compile:
+
+javac src/*.java
+
+Run:
+
+java src.Main
